@@ -2,23 +2,33 @@
 title: A common-sense guide to lookalike modelling
 date: 2019-06-01
 published: true
-tags: ['lookalike', 'disambiguation']
+tags: ['lookalike modelling', 'disambiguation', 'common sense guide']
 series: false
 canonical_url: false
-description: "Lookalike modelling is when we try to label people who we think are similar to other people we believe are valuable."
+description: "Lookalike modelling is when we try to label one group of people who we think are similar to another group of people we believe are valuable."
 ---
-Lookalike modelling is when we try to label people who *we think* are similar to other people we believe are valuable.
+Lookalike modelling is when we try to label one group of people who *we think* are similar to *another* group of people we believe are valuable.
 
-We start by identifying who is valuable. We could do this based on _who they **are**_, e.g. female, 25-35, lives in an Australian metro area, or based on _what they **do**_, e.g. visited our website twice in the last week and added an item to the shopping cart. At this point we can separarte all customers into these two groups, those who meet the criteria ('Team A') and those who don't ('Team B').
+We start by identifying who is valuable. The obvious criterion is those who complete our primary business goal, e.g. buyers, power users, etc. However this group of people are typically too small to draw any conclusions about what made them valuable. That is, the sample size is statistically insignificant.
 
-Now we have our teams, we need to answer two questions: "what other charactistics or behaviours do people in *Team A* share?" and "what other chartactistics or behaviours do people in *Team B*......
+Let's talk about how we decide who are valuable when it's not so obvious.
 
-Now we choose on one or more characteristics about these people that might also be correlated to
+We could do this based on _who they **are**_, e.g. female, 25-35, lives in an Australian metro area, or based on _what they **do**_, e.g. visited our website twice in the last week and added an item to the shopping cart. At this point we can separate everyone into these two groups — those who met the criteria ('Team A') and those who didn't ('Team B').
+
+Now we have our teams, we need to answer the question:
+
+> what *other* charactistics or behaviours do people in **Team A** share?"
+
+We are essentially trying to figure out if there is something we can learn about Team A such that we can split Team B. After all, they would be in Team A if they had the original charactistics.
+
+Now we target Team B and test if our theory is right.
 
 That's it.
 
 At this point you can see the assumptions piling up, and this is why lookalike modelling gets such a bad name. It's not because the concept is flawed, but the assumptions are rarely understood. This post is going to break apart this simple concept and rebuild it from first principles.
 
+
+<!--
 ## Loving and hating lookalike modelling
 Proponents of lookalike modelling tend to be marketers with a paid media focus. Why? Their incentive is to spend media dollars more efficiently. Lookalike modelling to these people tends to mean offloading it to the *all-knowing* Facebook, Google, Amazon, and adtech industry. The lookalike modelling narative is dominated by the adtech players comparing their solution to other adtech companies.
 
@@ -30,4 +40,8 @@ I've been a long-time hater of lookalike audiences. My approach to understanding
 
 Truthfully, part of this is that marketers are offloading their responsibility to be better marketers by relying too heavily on lookalike audiences.
 
+
+
 *This post is part of a common-sense series.*
+
+-->
