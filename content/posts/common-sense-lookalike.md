@@ -11,7 +11,7 @@ Lookalike modelling is when we try to label people who *we think* are similar to
 
 We start by identifying who is valuable. We could do this based on _who they **are**_, e.g. female, 25-35, lives in an Australian metro area, or based on _what they **do**_, e.g. visited our website twice in the last week and added an item to the shopping cart. At this point we can separarte all customers into these two groups, those who meet the criteria ('Team A') and those who don't ('Team B').
 
-Now we have our teams, we need to answer two questions: "what other charactistics or behaviours do people in *Team A* share?" and "what other chartactistics or behaviours do people in *Team B*
+Now we have our teams, we need to answer two questions: "what other charactistics or behaviours do people in *Team A* share?" and "what other chartactistics or behaviours do people in *Team B*......
 
 Now we choose on one or more characteristics about these people that might also be correlated to
 

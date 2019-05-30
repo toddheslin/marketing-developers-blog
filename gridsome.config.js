@@ -6,7 +6,7 @@
 
 module.exports = {
   siteName: 'Marketing Developers Blog',
-  siteDescription: 'Tools, tips, and tricks for web developers who sit somewhere between the marketing and development teams.',
+  siteDescription: 'Tools, tips, and tricks for web developers who sit between the marketing and development teams.',
 
   plugins: [
     {
